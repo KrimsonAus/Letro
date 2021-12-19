@@ -1,7 +1,6 @@
-Letro
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1> Letro </h1>
 
-The following page is dedicated to Letro, a program i threw together in a few minutes to animate Ascii Art.
-The program was written in c++ using sublime text.
+<p>The following page is dedicated to Letro, a program i threw together in a few minutes to animate <i>Ascii</i> Art.</p>
+</br>
+<p>The program was written in <b><i>c++</i></b> using <b>sublime text.</b></p>
 
-<h1> Test </h1>
